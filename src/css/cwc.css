@@ -1,0 +1,34 @@
+.cwcTile{
+  border: 1px solid limegreen;
+  color: white;
+  text-align: center
+}
+
+.tileText{
+  text-align: left;
+}
+
+.redBG{
+  background-color: red ;
+}
+
+.tealBG{
+  background-color: teal ;
+}
+
+.orangeBG{
+  background-color: orange ;
+}
+
+.blueBG{
+  background-color: blue ;
+}
+
+.remove{
+  position: absolute;
+  right: 2px;
+  top: 0px;
+  cursor: pointer;
+  color: black;
+  line-height: 1;
+}

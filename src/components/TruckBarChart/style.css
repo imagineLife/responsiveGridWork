@@ -1,0 +1,15 @@
+section {
+	background-color: transparent;
+	color: white;
+}
+
+.legendUL{
+	color: white;
+	margin-right:10px;
+}
+
+.truckPit{
+	background-color: rgb(0,169,190);
+	font-family: sans-serif;
+	padding: 5px;
+}

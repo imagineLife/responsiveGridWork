@@ -1,0 +1,42 @@
+.toolTip{
+	position: absolute;
+	display: none;
+	min-width: 80px;
+	height: auto;
+	background: none repeat scroll 0 0 rgba(255,255,255,.7);
+	padding: 14px;
+	text-align: center;
+	font-size: .75em;
+	font-family: sans-serif;
+}
+
+.legendItem{
+	display: inline;
+}
+
+.legendP{
+	display: inline;
+}
+
+.legendSq{
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	margin: 0 4px;
+}
+
+.legendUL{
+	position: absolute;
+	top: 0;
+	right: 15px;
+}
+
+
+@media only screen and (min-width: 820px) {
+
+	.legendSq{
+		width: 40px;
+		height: 10px;
+		margin: 0 8px;
+	}
+}
